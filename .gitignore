@@ -1,0 +1,7 @@
+# Archivos de Node
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Variables de Entorno (¡MUY IMPORTANTE!)
+.env
